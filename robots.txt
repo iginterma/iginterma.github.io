@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iginterma.github.io/sitemap.html.gz
+Sitemap: https://iginterma.github.io/app/sitemap.html.gz
+Sitemap: https://iginterma.github.io/assets/sitemap.html.gz
+Sitemap: https://iginterma.github.io/css/sitemap.html.gz
+Sitemap: https://iginterma.github.io/includes/sitemap.html.gz
+Sitemap: https://iginterma.github.io/item/sitemap.html.gz
+Sitemap: https://iginterma.github.io/src/sitemap.html.gz
